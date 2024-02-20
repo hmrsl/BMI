@@ -37,7 +37,4 @@ void main() {
     test("BMI = 41.9", () => expect(Controller.findCategory(41.0), "Pathological obesity"));
   });
 
-
-
-
 }
